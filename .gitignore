@@ -31,3 +31,4 @@ Thumbs.db
 
 # ClearML local cache (if any)
 .clearml/
+models
